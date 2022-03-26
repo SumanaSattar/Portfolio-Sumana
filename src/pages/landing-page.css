@@ -1,0 +1,35 @@
+.container {
+    line-height: 0.5;
+    display:flex;
+    justify-content: center;
+    height: 100vh;
+    
+}
+.container_image {
+    align-self:center;
+    object-fit:none;
+}
+.intro-container {
+    margin-top: 5rem;
+    object-fit:none;
+    padding-top:14rem;
+}
+
+.intro-container_intro{
+    color:#FDA804;
+    font-size: 1.3rem;
+    
+}
+.intro-container_name{
+    color:#CDD7F7;
+    font-size: 3rem;
+}
+.intro-container_describtion{
+   
+    left:130px;
+    width:400px;
+    line-height: 1.3;
+}
+.intro-container_image {
+   padding-left:20em
+}
